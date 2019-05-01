@@ -1,4 +1,4 @@
-## Topikk, A topic discussion forum
+## Topikk, A discussion forum
 Implemented newsfeed, create topic, reply, user-authentication features (login, logout,
 register)Used MySQL as backend database.
 
